@@ -1,0 +1,13 @@
+configName: dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round
+folderName: legato_db_9x75_curiosity_ws_4inch_round
+format_version: v1.0
+frameworkPath: C:\Users\c40450\harmony3
+processor: SAM9X75D2G
+projectName: legato_db_9x75_curiosity_ws_4inch_round
+settings:
+  PackageFilter: ''
+  FORCE_OPTIMIZATION: 'false'
+  GENERATE_BACKUP: 'true'
+  TRUSTZONE: 'false'
+  MERGE_STRATEGY: USER_ALL
+  DFPPath: SAM9X7_DFP\1.1.120

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round/debug/legato_db_9x75_curiosity_ws_4inch_round.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>251658240</length>
+      <used>11889340</used>
+      <free>239768900</free>
+    </memory>
+  </executable>
+</project>

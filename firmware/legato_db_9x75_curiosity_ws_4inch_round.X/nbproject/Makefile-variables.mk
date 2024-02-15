@@ -1,0 +1,10 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round configuration
+CND_ARTIFACT_DIR_dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round=dist/dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round/production
+CND_ARTIFACT_NAME_dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round=legato_db_9x75_curiosity_ws_4inch_round.X.production.hex
+CND_ARTIFACT_PATH_dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round=dist/dsi_xlcdc_rgba8888_ws_9x75_curiosity_720x720_round/production/legato_db_9x75_curiosity_ws_4inch_round.X.production.hex
